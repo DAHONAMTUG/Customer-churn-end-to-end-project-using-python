@@ -1,5 +1,5 @@
 # End-to-End-Data-analytics-project-using-python-and-power-BI-
-The objective of this project to identify the factors that may lead to customer churn.
+
 ![Example image](https://github.com/DAHONAMTUG/End-to-End-Data-analytics-project-using-python-and-power-BI-/blob/main/maxresdefault%20(1).jpg)
 
 The objective of this project to identify the factors that may lead to customer churn, i will use python and power BI.
