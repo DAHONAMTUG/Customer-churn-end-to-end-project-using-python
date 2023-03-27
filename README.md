@@ -63,6 +63,8 @@ Looking at the table, it seems that customers who had fewer contacts in the last
 13)	Is customer inactivity a significant predictor of customer attrition:
 We can conclude that there is a significant association between attrition status and number of calls made. Looking at the table, we can see that customers who had fewer contacts in the last 12 months (0-3) were more likely to leave the company, while customers who had more contacts (4-6) were more likely to stay. This suggests that the number of calls made is a significant predictor of customer attrition, with customers who have had fewer calls being more likely to leave. . Therefore, customer inactivity should be considered an important factor to monitor and address in order to reduce customer attrition.
 
+![Example image](https://github.com/DAHONAMTUG/End-to-End-Data-analytics-project-using-python-and-power-BI-/blob/main/power%20bi%20dashboard%20image.jpg)
+
 ![Example image](https://github.com/DAHONAMTUG/End-to-End-Data-analytics-project-using-python-and-power-BI-/blob/main/power%20bi%20dashboard%20image%202.jpg)
  
 
