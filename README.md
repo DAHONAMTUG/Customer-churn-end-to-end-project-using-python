@@ -1,4 +1,5 @@
-# End-to-End-Data-analytics-project-using-python-and-power-BI-
+# Customer-churn-end-to-end-project-using-python
+
 ![Example image](https://github.com/DAHONAMTUG/End-to-End-Data-analytics-project-using-python-and-power-BI-/blob/main/maxresdefault%20(1).jpg)
 
 The objective of this project to identify the factors that may lead to customer churn, for that i will use python and power BI. and also build a churn prediction model using machine learning.
